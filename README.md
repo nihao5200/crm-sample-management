@@ -63,7 +63,7 @@
 #### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/crm-system.git
+git clone https://github.com/nihao5200/crm-sample-management.git
 cd crm-system
 ```
 
@@ -211,11 +211,15 @@ A: 编辑 `order_form.php` 中的产地 select 选项，并在数据库中添加
 
 ## 👨‍💻 开发者
 
-- 作者：[Your Name]
-- 邮箱：[your.email@example.com]
+- 作者：[Yao]
+- 邮箱：[sky123@vip.qq.com]
 
 ---
-
+##🌟 项目截图
+<img width="1902" height="942" alt="image" src="https://github.com/user-attachments/assets/61cdf657-43e5-42c6-b3cc-c6051083a8a6" />
+<img width="1901" height="914" alt="image" src="https://github.com/user-attachments/assets/7ed15da6-ab5b-406d-ae19-1022736d9b42" />
+<img width="1903" height="913" alt="image" src="https://github.com/user-attachments/assets/a1bd774e-0425-4d37-808a-5e3e652cb84e" />
 <p align="center">
   <b>如果这个项目对你有帮助，请给个 ⭐ Star 支持一下！</b>
 </p>
+温馨提示：项目代码免费开放，但不提供搭建服务，如有问题可在群内讨论或私信咨询。
